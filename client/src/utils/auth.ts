@@ -28,6 +28,7 @@ class AuthService {
 
   login(idToken: string) {
     // set the token to localStorage
+    console.log(idToken);
     localStorage.setItem("id_token", idToken);
     // redirect to the home page
     window.location.assign("/");
