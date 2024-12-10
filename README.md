@@ -17,7 +17,8 @@ This application is designed for agile teams looking to efficiently manage their
 
 ## Installation
 
-This application is deployed on Render.
+Click to view this application deployed on: [Render](https://kanban-krazy.onrender.com/)
+![Preview of Application](./assets/Screenshot%202024-12-10%20135513.png)
 
 ## Usage
 
